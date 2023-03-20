@@ -1,1 +1,1 @@
-
+export * from './uploadImage.middleware';
