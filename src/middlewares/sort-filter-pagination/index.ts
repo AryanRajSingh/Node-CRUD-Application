@@ -1,1 +1,1 @@
-
+export * from './postsFeatures.middleware';
